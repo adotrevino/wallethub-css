@@ -1,0 +1,14 @@
+{
+  "name": "slicing-test",
+  "version": "1.0.0",
+  "description": "Test for WalletHub",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Adolfo Trevino",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
