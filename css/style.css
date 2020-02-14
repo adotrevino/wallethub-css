@@ -71,7 +71,7 @@ body {
 
 header {
   height: 620px;
-  background-image: url(/img/hero-bg.svg);
+  background-image: url(../img/hero-bg.svg);
   background-repeat: no-repeat;
   background-size: 100%;
   background-position-y: bottom;
